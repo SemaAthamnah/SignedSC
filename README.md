@@ -6,3 +6,4 @@ Abstract: Modular organization is a crucial property of brain networks shaping c
 The implementation of three different spectral clustering-based methods for multilayer community detection in signed graphs is given here.
 
 For questions or collaborations, feel free to contact me at athamnah@msu.edu
+Sema Athamnah
